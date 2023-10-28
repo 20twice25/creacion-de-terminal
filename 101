@@ -1,0 +1,3 @@
+#Creaacion de terminal
+#python -m venv <nombre-del-entorno-virtual>
+#.\<nombre-del-entorno-virtual>\Scripts\activate
